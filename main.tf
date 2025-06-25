@@ -37,8 +37,8 @@ resource "azurerm_resource_group" "rg-sujit4" {
   location = "East US"
   
 }
-resource "azurerm_resource_group" "rg-sujit4" {
-  name     = "rg-sujit4"
+resource "azurerm_resource_group" "rg-sujit5" {
+  name     = "rg-sujit5"
   location = "East US"
   
 }
